@@ -1,0 +1,4 @@
+FP adder: 2, 2
+FP Multiplier: 2, 10
+FP divider: 1, 40
+I-Cache: 4, 4
